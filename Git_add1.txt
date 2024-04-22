@@ -1,1 +1,2 @@
 This file is used to add in git and change to master branch 
+Merging sub branch into main branch
